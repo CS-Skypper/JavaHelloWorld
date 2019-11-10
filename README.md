@@ -1,1 +1,1 @@
-Hello, World
+This project was build to practice with Jenkins.
